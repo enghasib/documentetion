@@ -1,11 +1,3 @@
----
-# 🧠 Mastering cURL: From Beginner to Pro
-
-> A complete deep dive into `curl` — from the basics of HTTP communication to advanced API testing, scripting, and automation.  
-> Written and compiled by **Al Hasib** (Web Developer & IoT Expert).
-
----
-
 ## 📘 Chapter 1: Understanding How curl Works
 
 Before diving into commands, understand **what curl really is**.
